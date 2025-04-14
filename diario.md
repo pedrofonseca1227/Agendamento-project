@@ -31,8 +31,7 @@
 
 ### 📅 [Próximas Semanas]
 
-*(Você pode ir preenchendo isso conforme forem avançando, exemplo: desenvolvimento de funcionalidades, testes, revisão de código, etc.)*
-
+**
 ---
 
 ### ✅ Status atual do projeto:
