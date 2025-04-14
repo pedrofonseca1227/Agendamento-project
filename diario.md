@@ -7,7 +7,7 @@
 
 ---
 
-### 📅 1ª Semana (Início e Planejamento)
+### (Início e Planejamento)
 
 - Formação da equipe com 2 membros
 - Brainstorming para definição do projeto
@@ -20,17 +20,16 @@
 
 ---
 
-### 📅 2ª Semana (Levantamento de Requisitos e Protótipos)
+### 📅 (Levantamento de Requisitos e Protótipos)
 
-- Criação de protótipos das telas com Figma
+- Criação de protótipos frontend
 - Definição dos principais requisitos funcionais e não funcionais
 - Estrutura inicial do banco de dados desenhada
-- Início da estruturação da API
 
 ---
 
 ### 📅 [Próximas Semanas]
-
+- Início da estruturação da API
 **
 ---
 
