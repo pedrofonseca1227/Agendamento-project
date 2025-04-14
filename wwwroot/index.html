@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Agendamento</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Sistema de Agendamento</h1>
+    </header>
+    <main>
+        <form id="agendamentoForm">
+            <label for="nomeCliente">Nome do Cliente:</label>
+            <input type="text" id="nomeCliente" name="nomeCliente" required><br><br>
+
+            <label for="dataHora">Data e Hora:</label>
+            <input type="datetime-local" id="dataHora" name="dataHora" required><br><br>
+
+            <label for="servico">Serviço:</label>
+            <select id="servico" name="servico" required>
+                <option value="Corte de Cabelo">Corte de Cabelo</option>
+                <option value="Manicure">Manicure</option>
+                <option value="Massagem">Massagem</option>
+            </select><br><br>
+
+            <button type="submit">Agendar</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2025 Sistema de Agendamento</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
